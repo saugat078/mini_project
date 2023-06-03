@@ -1,10 +1,9 @@
-# threejs-rapier3d-character-terrain-movement
+# Basic character controller
 
 `npm install` and `npm run start`  
+   
   
-Try the [Stackblitz](https://stackblitz.com/github/tamani-coding/threejs-rapier3d-character-terrain-movement)  
-  
-![Screenshot](https://github.com/tamani-coding/threejs-rapier3d-character-terrain-movement/blob/main/screenshot01.png?raw=true)
+![Screenshot](C:\Users\PREDATOR\Graphics_Mini_Project\scene with objects .png)
 
 ## sources
 
