@@ -3,7 +3,7 @@
 `npm install` and `npm run start`  
    
   
-![Screenshot](C:\Users\PREDATOR\Graphics_Mini_Project\scene with objects .png)
+![Screenshot](https://github.com/saugat078/mini_project/blob/master/scene%20with%20objects%20.png)
 
 ## sources
 
