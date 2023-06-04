@@ -70,7 +70,7 @@ window.addEventListener('resize', onWindowResize);
 // }
 
 
-// MODEL WITH ANIMATIONS
+// MODEL WITH ANIMATIONS AND PHYSICS ENVIRONMENT
 var characterControls: CharacterControls
 
 import("@dimforge/rapier3d").then((RAPIER) => {
@@ -232,6 +232,8 @@ import("@dimforge/rapier3d").then((RAPIER) => {
     "purple"
   );
   bodys.push(coneBody);
+
+
 
   // character controller
   new GLTFLoader().load("models/Soldier.glb", function (gltf) {

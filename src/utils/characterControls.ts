@@ -136,7 +136,8 @@ export class CharacterControls {
                 let diff = translation.y - ( point.y + CONTROLLER_BODY_RADIUS);
                 if (diff < 0.0) {
                     this.storedFall = 0
-                    this.walkDirection.y = this.lerp(0, Math.abs(diff), 0.5)
+                    this.walkDirection.y = this.lerp(0, Math.abs(diff), 0.1)
+            
                 }
             }
     

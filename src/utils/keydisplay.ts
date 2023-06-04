@@ -23,7 +23,7 @@ export class KeyDisplay {
         this.map.set(SHIFT, shift)
 
         this.map.forEach( (v, k) => {
-            v.style.color = 'blue'
+            v.style.color = 'red'
             v.style.fontSize = '50px'
             v.style.fontWeight = '800'
             v.style.position = 'absolute'
